@@ -1,0 +1,5 @@
+webdriver.driver = Chrome
+webdriver.path = /C:/driver/chromedriver.exe/
+webdriver.url = http://sahitest.com/demo/training/login.htm
+webdriver.user = test
+webdriver.pass = secret
